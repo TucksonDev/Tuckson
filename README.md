@@ -16,7 +16,8 @@ I'm Tuckson, an experienced fullstack web2 developer moving to the amazing world
 - Check my [Github repository](https://github.com/TucksonDev) for all the source code.
 
 
-# General Skills
+# Skills
+## General
 - Problem-solving oriented mind and analytical thinking
 - Ease of adapting to the end user perspective
 - Ability to produce clear, well documented and organized work
@@ -24,20 +25,20 @@ I'm Tuckson, an experienced fullstack web2 developer moving to the amazing world
 - Always learning, always improving
 
 
-# Development Skills
+## Development
 - Web3 programming languages and frameworks: Solidity, Hardhat, OpenZeppelin contracts
 - Web2 programming languages and frameworks: JS, NodeJS, Typescript, VueJS, NestJS, LAMP Stack, Laravel (PHP), Yii (PHP)
 - Scripting: Bash, Python
 - Other development tools: Ethers lib, Etherscan API, electronic payment systems (Stripe and Mangopay)
 
-# Other technical Skills
+## Other technical Skills
 - Project management: JIRA, Confluence, Trello, Bitbucket
 - Development and deployment cycles for SaaS platforms: coding standards, code reviews, source code management, CI/CD, Testing.
 - Analysis of web infrastructure security and data protection
 - Basic knowledge of sales pipelines and strategies, as well as basic analytics and ad tools
 
 
-# Languages
+## Languages
 - Spanish (native speaker)
 - English (High proficiency)
 - French (Intermediate level)
