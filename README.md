@@ -18,8 +18,9 @@ I'm Tuckson, an experienced fullstack web2 developer moving to the amazing world
 
 # General Skills
 - Problem-solving oriented mind and analytical thinking
+- Ease of adapting to the end user perspective
 - Ability to produce clear, well documented and organized work
-- Ability to work with limited oversight
+- Ability to adapt and work with different languages and technologies
 - Always learning, always improving
 
 
