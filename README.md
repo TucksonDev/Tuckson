@@ -58,3 +58,6 @@ As part of a team of 3 people, maintenance of a REST web service to manage subsc
 
 # Education
 - Degree in Computer engineering by Universitat Oberta de Catalunya, Spain
+
+# Links and social networks
+- Find all the relevant links in my [linktr.ee space](https://linktr.ee/tuckson)
