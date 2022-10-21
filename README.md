@@ -50,11 +50,13 @@ I'm Tuckson, an experienced fullstack web2 developer moving to the amazing world
 
 
 # Relevant work experience
-## CTO/Developer at TokenCity (Adventurees Group)
+## CTO/Developer at an asset tokenization startup
 I started as a single developer/analyst of a crowdfunding platform and my responsibilities increased as the company grew, finally managing two teams of 3 people each and multiple websites and internal tools. During this time I carried out, among others, the development of multiple websites and platforms, infrastructure management and architecture optimization. Several electronic payment systems (MangoPay, Lemonway, Stripe and Paypal), APIs, infrastructures (Amazon, Azure, VPS's) were integrated. On the management side, we used Atlassian's suite of tools (Bitbucket, JIRA, Confluence and Trello).
 
-## Web developer at Watchever (Vivendi Group)
+## Web developer at a video streaming company
 As part of a team of 3 people, maintenance of a REST web service to manage subscriptions, products, billing and Blacklisting. Integration of this service with the rest of the company's teams (front web, front consoles, front AppleTV, BackOffice, etc.) The payment methods used were: Paypal, credit cards (Paybox), bank wires (GlobalCollect) and iTunes. Other tasks included the creation of interfaces for monitoring data consistency and product management.
+
+*Note: Names of companies are not revealed in order to keep some anonimity in this profile. To disclose full information about them, contact me through my social networks.*
 
 # Education
 - Degree in Computer engineering by Universitat Oberta de Catalunya, Spain
